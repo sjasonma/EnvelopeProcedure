@@ -1,0 +1,5 @@
+EP_test is faster than EP_test_optl (about 2 times?)
+EP_test has smaller sumn than EP_test_optl for SC when k = 100, bsize = 5;
+    eta = 2.7, about 1.5e5 vs 1.8e5
+EP_test has larger sumn than EP_test_optl for RPI2 when k = 1000, bsize = 5;
+    eta = 2, about 7.3e4 vs 6e4
